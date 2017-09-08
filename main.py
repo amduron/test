@@ -6,7 +6,7 @@ import time
 import memcache
 
 mc = memcache.Client()
-
+test=xx
 urls = (
     '/', 'Hello',
     '/str','stroage',
